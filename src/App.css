@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .App {
   text-align: center;
 }
@@ -36,3 +37,8 @@
     transform: rotate(360deg);
   }
 }
+=======
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+>>>>>>> 35f68edee76f7c3b7609b2ff41f7adcc777e9914
