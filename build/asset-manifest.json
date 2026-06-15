@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gyeongJo_DoWork/static/css/main.e00e6a08.css",
+    "main.js": "/gyeongJo_DoWork/static/js/main.77d5edef.js",
+    "static/js/453.ebcd9bf5.chunk.js": "/gyeongJo_DoWork/static/js/453.ebcd9bf5.chunk.js",
+    "index.html": "/gyeongJo_DoWork/index.html",
+    "main.e00e6a08.css.map": "/gyeongJo_DoWork/static/css/main.e00e6a08.css.map",
+    "main.77d5edef.js.map": "/gyeongJo_DoWork/static/js/main.77d5edef.js.map",
+    "453.ebcd9bf5.chunk.js.map": "/gyeongJo_DoWork/static/js/453.ebcd9bf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e00e6a08.css",
+    "static/js/main.77d5edef.js"
+  ]
+}
